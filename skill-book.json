@@ -1,0 +1,11 @@
+{
+  "format": "freedom.skill-book/v1",
+  "id": "freedom-skill-partnership",
+  "title": "需求訪談與合作提案",
+  "version": "0.1.0",
+  "guild_key": "guild_opportunity_partnership",
+  "entry": "SKILL.md",
+  "execution": "manual_or_member_owned_assistant",
+  "repository": "https://github.com/FreeTWAI-AI/freedom-skill-partnership",
+  "license": "NOASSERTION"
+}
